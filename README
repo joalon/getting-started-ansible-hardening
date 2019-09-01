@@ -1,0 +1,4 @@
+# Getting started with ansible-hardening
+
+A simple playbook to apply ansible-hardening to all servers in the inventory. Read more on [my blog](https://joalon.se/blog/Getting-started-with-ansible-hardening.html)
+
